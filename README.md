@@ -5,3 +5,7 @@ Author: Donald Huysen
 This is my first edit to make my first stge -> commit -> push through VSCODE!
 
 ##Now I am editing something on GitHub Web
+
+## About Me
+Hi, I’m Donald Huysen.
+I’m learning how to use GitHub Issues.
