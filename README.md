@@ -9,3 +9,5 @@ This is my first edit to make my first stge -> commit -> push through VSCODE!
 ## About Me
 Hi, I’m Donald Huysen.
 I’m learning how to use GitHub Issues.
+
+lolol
